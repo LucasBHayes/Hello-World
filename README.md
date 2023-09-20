@@ -19,8 +19,10 @@ It worked!!! 😄
 
 ## I have now used 4 different syntax options
 
-- let
-- us
-- celebrate
+- I
+- Just
+- Want
+- To
+- Celebrate
 
 
